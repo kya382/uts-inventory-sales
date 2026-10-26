@@ -168,12 +168,6 @@ http://127.0.0.1:8000
 
 8. Login menggunakan akun Admin atau Staff yang sudah dibuat di database.
 
-**Catatan:** Jika PHP 8.3 pada perangkatmu perlu dipanggil melalui lokasi khusus, gunakan perintah berikut:
-
-```powershell
-D:\php83\php.exe artisan serve
-```
-
 ## 8. Database
 
 Database yang digunakan bernama `inventory_uts` dengan MySQL. Database menyimpan data pengguna, barang, kategori, supplier, pembelian, dan penjualan beserta detail transaksinya.
