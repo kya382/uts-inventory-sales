@@ -1,24 +1,31 @@
 # BERKAH ELEKTRONIK Management System
 1. DASHBOARD
-<img width="374" height="304" alt="Login staff png" src="https://github.com/user-attachments/assets/9b1b6be4-939e-479b-a4f9-f3ce95dcf4d8" />
-
+<img width="956" height="439" alt="Dashboard png" src="https://github.com/user-attachments/assets/3ff6bb4f-bc04-4990-a59e-fd5fa5fa9cf5" />
 
 2. DATA PENJUALAN
-![alt text](<screenshots/Data penjualan.png>)
+<img width="730" height="407" alt="Data penjualan png" src="https://github.com/user-attachments/assets/d3eaff9d-a10e-493b-ad40-c6ed512af0a1" />
+
 3. DATA SUPPLIER
-![alt text](<screenshots/Data supplier.png>)
+<img width="954" height="239" alt="Data supplier png" src="https://github.com/user-attachments/assets/e438736b-2c99-4ad3-9648-dbbefd46372b" />
+
 4. KATEGORI
-![alt text](screenshots/Kategori.png)
+<img width="956" height="443" alt="Kategori png" src="https://github.com/user-attachments/assets/c0c97cac-01d5-4cbb-ac9a-5ceaf971cc00" />
+
 5. KELOLA BARANG
-![alt text](<screenshots/Kelola barang.png>)
+<img width="343" height="359" alt="Kelola barang png" src="https://github.com/user-attachments/assets/92face16-6460-4099-8187-f1e1c5920f0b" />
+
 6. LAPORAN PENJUALAN
-![alt text](<screenshots/Laporan penjualan.png>)
+<img width="938" height="440" alt="Laporan penjualan png" src="https://github.com/user-attachments/assets/c3f63244-98e0-430c-bbeb-d835fa718ade" />
+
 7. LOGIN ADMIN
-![alt text](<screenshots/Login admin.png>)
+<img width="389" height="335" alt="Login admin png" src="https://github.com/user-attachments/assets/4ae069e9-999a-4db6-8838-e0a235048120" />
+
 8. LOGIN STAFF
-![alt text](<screenshots/Login staff.png>)
+<img width="374" height="304" alt="Login staff png" src="https://github.com/user-attachments/assets/e4de1b57-80f3-4a5e-94de-0422ab6068ca" />
+
 9. TRANSAKSI PEMBELIAN
-![alt text](<screenshots/Transaksi pembelian.png>)
+<img width="815" height="323" alt="Transaksi pembelian png" src="https://github.com/user-attachments/assets/4514f1c3-c323-4cec-ad38-72f81d7d1074" />
+
 
 ## 1. Deskripsi Proyek
 
