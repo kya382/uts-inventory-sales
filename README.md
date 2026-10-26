@@ -1,6 +1,7 @@
 # BERKAH ELEKTRONIK Management System
 1. DASHBOARD
-![Uploading Login staff.png.png…]()
+<img width="374" height="304" alt="Login staff png" src="https://github.com/user-attachments/assets/9b1b6be4-939e-479b-a4f9-f3ce95dcf4d8" />
+
 
 2. DATA PENJUALAN
 ![alt text](<screenshots/Data penjualan.png>)
