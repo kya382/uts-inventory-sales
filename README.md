@@ -1,6 +1,7 @@
 # BERKAH ELEKTRONIK Management System
 1. DASHBOARD
-![alt text](screenshots/Dashboard.png)
+![Uploading Login staff.png.png…]()
+
 2. DATA PENJUALAN
 ![alt text](<screenshots/Data penjualan.png>)
 3. DATA SUPPLIER
